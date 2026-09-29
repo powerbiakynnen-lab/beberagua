@@ -1,6 +1,0 @@
-{
-  "name": "HidroCards - Beba Água & Colecione Cartas",
-  "description": "Aplicativo de hidratação gamificado com lembretes inteligentes, metas diárias, recompensas em moedas e coleção de 151 cartas com sistema de baús.",
-  "requestFramePermissions": [],
-  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
-}
